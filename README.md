@@ -12,7 +12,7 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 ## Repository Structure
 ```
 ├── Project1-ML-Classifiers/
-│   ├── Part1_2_3_4Solution.ipynb
+│   ├── Group_5_Project_1_Code.ipynb
 │   ├── Project1.Presentation.pptx
 │   ├── Group_5_Perceptron_PredictedOutputs.csv
 │   ├── Group_5_Adaline_PredictedOutputs.csv
