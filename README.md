@@ -10,7 +10,7 @@ This repository contains our team’s projects for DASC 41103.
 Each project folder includes its own code, notebook(s), deliverables, and a detailed README.md describing requirements, implementation, and results.
 
 ## Repository Structure
-.
+```
 ├── Project1-ML-Classifiers/
 │   ├── Part1_2_3_4Solution.ipynb
 │   ├── Project1.Presentation.pptx
@@ -28,6 +28,7 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 │   ├── ...
 │   └── README.md
 └── README.md   ← (this file)
+```
 
 ## Projects
 Project 1 — Machine Learning Classifiers
