@@ -19,13 +19,12 @@ We implement, train, evaluate, and visualize classifiers, and save validation pr
 ---
 
 ## Repository Contents
-- `Part1_2_3_4Solution.ipynb` — Main Jupyter notebook with code, results, and plots.  
-- `Project1.Presentation.pptx` — Team presentation slides (15-minute overview + deep dive).  
+- `Group_5_Project_1_Code.ipynb` — Main Jupyter notebook with code, results, and plots.  
+- `Group_5_Project1_Presentation.pptx` — Team presentation slides (15-minute overview + deep dive).  
 - `Group_5_Perceptron_PredictedOutputs.csv` — Validation predictions for best Perceptron.  
 - `Group_5_Adaline_PredictedOutputs.csv` — Validation predictions for best Adaline.  
 - `Group_5_LogisticRegression_PredictedOutputs.csv` — Validation predictions for best Logistic Regression.  
-- `Group_5_SVM_PredictedOutputs.csv` — Validation predictions for best SVM.  
-- `DASC41103_Project1_ML_Classifiers.pdf` — Project instructions & grading rubric.  
+- `Group_5_SVM_PredictedOutputs.csv` — Validation predictions for best SVM.
 - `README.md` — This file.
 
 ---
