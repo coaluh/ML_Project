@@ -13,12 +13,11 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 ```
 ├── Project1-ML-Classifiers/
 │   ├── Group_5_Project_1_Code.ipynb
-│   ├── Project1.Presentation.pptx
+│   ├── Group_5_Project1_Presentation.pptx
 │   ├── Group_5_Perceptron_PredictedOutputs.csv
 │   ├── Group_5_Adaline_PredictedOutputs.csv
 │   ├── Group_5_LogisticRegression_PredictedOutputs.csv
 │   ├── Group_5_SVM_PredictedOutputs.csv
-│   ├── DASC41103_Project1_ML_Classifiers.pdf
 │   ├── README.md
 │   └── requirements.txt
 ├── Project2-<Name>/
