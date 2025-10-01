@@ -1,0 +1,4 @@
+Prediction Output Labels - Project 1 (UCI Adult Income Dataset)
+
+0 = Individual earns $50,000 per year or less
+1 = Individual earns more than $50,000 per year
