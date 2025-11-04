@@ -20,8 +20,11 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 │   ├── Group_5_SVM_PredictedOutputs.csv
 │   ├── README.md
 │   └── requirements.txt
-├── Project2-<Name>/
-│   ├── ...
+├── Project2-MLP/
+|   ├── Group5_Project2.ipynb
+|   ├── artifacts_part1/
+│      └── Group_05_MLP_PredictedOutputs.csv
+|   ├── Group5_Project2_Presentation.pptx
 │   └── README.md
 ├── Project3-<Name>/
 │   ├── ...
@@ -41,11 +44,17 @@ Includes Jupyter notebook, presentation, and results.
 See Project1-ML-Classifiers/README.md
  for full details.
 
-Project 2 — Placeholder Title
+## 🚀 Project 2 — Multilayer Perceptron (Adult Income Dataset)
 
-Will include description, scope, and deliverables once assigned.
+Predict whether an individual earns > \$50K per year using demographic and employment data.
 
-Folder: Project2-<Name>/
+This project demonstrates a full end-to-end **machine-learning pipeline** in Python using `scikit-learn`:
+
+- Loads and cleans the UCI Adult Income dataset  
+- Preprocesses data with a **ColumnTransformer** (numeric → impute + scale | categorical → impute + one-hot)  
+- Trains and tunes an **MLP Classifier** via `GridSearchCV`  
+- Evaluates performance and fairness implications  
+- Generates validation predictions in the required CSV format
 
 Project 3 — Placeholder Title
 
