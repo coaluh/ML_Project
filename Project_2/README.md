@@ -22,13 +22,9 @@ We train, evaluate, and visualize MLP models and save the required validation pr
 
 Repository Contents
 
-project_2.ipynb — Main Jupyter Notebook containing code, results, and plots.
+Group5_project_2.ipynb — Main Jupyter Notebook containing code, results, and plots.
 
 artifacts_part1/Group_05_MLP_PredictedOutputs.csv — Validation predictions from the best MLP model (1 = > 50K, –1 = ≤ 50K).
-
-artifacts_part1/best_mlp_pipeline.joblib — Saved pipeline (model + preprocessing).
-
-artifacts_part1/cv_results.csv — GridSearchCV summary of hyperparameter scores.
 
 slides/Project2_MLP.pdf — Team presentation slides (15-minute overview + technical discussion).
 
@@ -40,21 +36,23 @@ How to Run
 
 Clone the repository and open the Project 2 folder:
 
+```{bash}
 git clone https://github.com/coaluh/ML_Project.git
 cd ML_Project/Project2-MLP
-
+```
 
 Install dependencies:
-
+```{bash}
 pip install -r requirements.txt
-
+```
 
 (Key packages: numpy, pandas, matplotlib, scikit-learn, joblib, jupyter)
 
 Open and run the notebook:
 
+```{bash}
 jupyter notebook project_2.ipynb
-
+```
 
 Run all cells to reproduce preprocessing, training, evaluation, and plots.
 Outputs will be saved in artifacts_part1/.
