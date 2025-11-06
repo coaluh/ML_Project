@@ -44,7 +44,7 @@ Includes Jupyter notebook, presentation, and results.
 See Project1-ML-Classifiers/README.md
  for full details.
 
-## 🚀 Project 2 — Multilayer Perceptron (Adult Income Dataset)
+## Project 2 — Multilayer Perceptron (Adult Income Dataset)
 
 Predict whether an individual earns > \$50K per year using demographic and employment data.
 
