@@ -26,8 +26,18 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 │      └── Group_05_MLP_PredictedOutputs.csv
 |   ├── Group5_Project2_Presentation.pptx
 │   └── README.md
-├── Project3-<Name>/
-│   ├── ...
+├── Project3-RazorBack-CNN/
+│   ├── Group_Project_3.ipynb
+│   ├── Group5_Project3_presentation
+│   ├──Group5_CNN_FullModel.ph
+│   ├── Razorback_Images/
+│   │   ├── razorback_0.jpg
+│   │   ├── razorback_1.jpg
+│   │   ├── razorback_2.jpg
+│   ├── Non_Razorback_Images/
+│   │   ├── non_razorback_1.jpg
+│   │   ├── non_razorback_2.jpg
+│   │   ├── non_razorback_3.jpg
 │   └── README.md
 └── README.md   ← (this file)
 ```
@@ -56,11 +66,12 @@ This project demonstrates a full end-to-end **machine-learning pipeline** in Pyt
 - Evaluates performance and fairness implications  
 - Generates validation predictions in the required CSV format
 
-Project 3 — Placeholder Title
-
-Will include description, scope, and deliverables once assigned.
-
-Folder: Project3-<Name>/
+Project 3 — Razorback Logo Detection with CNN**
+- Built a custom dataset of Razorback and non-Razorback images  
+- Developed a multi-layer convolutional neural network from scratch  
+- Used image augmentation and 500×500 preprocessing  
+- Produced presentation-ready graphics: confusion matrix, ROC curve, accuracy/loss curves, and prediction grid  
+- Achieved strong model performance (AUC ≈ 0.90)
 
 ## How to Use
 
