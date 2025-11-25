@@ -27,17 +27,19 @@ Each project folder includes its own code, notebook(s), deliverables, and a deta
 |   ├── Group5_Project2_Presentation.pptx
 │   └── README.md
 ├── Project3-RazorBack-CNN/
-│   ├── Group_Project_3.ipynb
+│   ├── Group5_Project_3.ipynb
 │   ├── Group5_Project3_presentation
-│   ├──Group5_CNN_FullModel.ph
+│   ├──Group5_CNN_FullModel.ph (file to big to upload but is output from Group5_Project_3.ipynb)
 │   ├── Razorback_Images/
 │   │   ├── razorback_0.jpg
 │   │   ├── razorback_1.jpg
 │   │   ├── razorback_2.jpg
+│   │   ├── razorback_*.jpg
 │   ├── Non_Razorback_Images/
 │   │   ├── non_razorback_1.jpg
 │   │   ├── non_razorback_2.jpg
 │   │   ├── non_razorback_3.jpg
+│   │   ├── non_razorback_*.jpg
 │   └── README.md
 └── README.md   ← (this file)
 ```
